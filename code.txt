@@ -1,0 +1,10 @@
+var y, x, res : int
+def fun(a:int;b:int){
+    return a*b
+}
+{
+    x:= 1+5;
+    y:= 8;
+    res:= fun(x;y);
+    print(x)
+}
