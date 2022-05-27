@@ -39,3 +39,16 @@ https://drive.google.com/drive/folders/1qyPzvgfUV_kGOxqms1fG7n3iGHJ71tAU?usp=sha
 
 ![image](https://user-images.githubusercontent.com/62545808/170646416-bb5cbaec-4340-4f15-b5dc-004ee9012be0.png)
 
+
+Таблица символов
+
+![image](https://user-images.githubusercontent.com/62545808/170650128-8e08a433-047a-4eb5-9c6d-2eabe31c4f38.png)
+
+
+Промежуточный код
+
+![image](https://user-images.githubusercontent.com/62545808/170650436-b7d4eca9-b736-4f29-bd3c-bafafef2e77a.png)
+
+
+
+
